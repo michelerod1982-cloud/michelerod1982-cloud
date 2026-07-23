@@ -1,6 +1,6 @@
 # 📊 Portfólio de Análise de Dados com Python
 
-## 👋 Olá, seja bem-vindo(a)!
+## 👋 Olá, seja bem-vindo(a) ao meu GitHub!
 
 Este repositório faz parte da minha jornada de **transição de carreira para a área de Análise de Dados**.
 Aqui você encontrará projetos desenvolvidos com foco em **Python**, demonstrando minhas habilidades em análise, tratamento, visualização e interpretação de dados.
