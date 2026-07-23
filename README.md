@@ -59,11 +59,7 @@ Minha formação multidisciplinar contribuiu para o desenvolvimento de competên
 Este perfil foi criado para demonstrar minhas habilidades e conhecimentos em **Análise de Dados com Python**.
 
 Minha experiência profissional nas áreas de **Vendas** e **Educação**, aliada à formação em **Ciência da Computação**, **Matemática** e **Pedagogia**, proporciona uma visão analítica, lógica e orientada à resolução de problemas.
-
 Meu objetivo é compartilhar projetos que evidenciem minha evolução técnica e minha preparação para atuar como **Analista de Dados**.
----
 
 ⭐ **Obrigada pela visita ao meu perfil!**
 
-
-Esse formato segue o padrão usado nos melhores perfis do GitHub, com seções bem organizadas, ícones, divisores (---) e títulos (#, ##), deixando seu README mais profissional e agradável para recrutadores.
