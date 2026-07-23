@@ -17,6 +17,7 @@ Busco uma oportunidade para desenvolver minha carreira na área de Dados, aplica
 - 🎓 Bacharelado em Ciência da Computação
 - 🎓 Licenciatura em Matemática
 - 🎓 Licenciatura em Pedagogia
+  
 Minha formação multidisciplinar contribuiu para o desenvolvimento de competências analíticas, raciocínio lógico, resolução de problemas e comunicação.
 
 ## 💻 Conhecimentos
